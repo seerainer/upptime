@@ -1,16 +1,16 @@
-# Change these first
-owner: seerainer # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: seerainer
+repo: upptime
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
 sites:
-  - name: Seerainer
+  - name: seerainer.com
     url: https://www.seerainer.com
     icon: https://www.seerainer.com/favicon.png
     type: globalping
+    check: tcp-ping
 
 status-website:
-  name: Upptime
+  name: seerainer.com status
   baseUrl: /upptime
