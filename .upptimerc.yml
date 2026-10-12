@@ -6,9 +6,3 @@ sites:
   - name: Seerainer
     url: https://www.seerainer.com
     icon: https://www.seerainer.com/favicon.png
-
-status-website:
-  name: Upptime
-  favicon: https://www.seerainer.com/favicon.png
-  cname: www.seerainer.com # Custom CNAME
-  baseUrl: /upptime # where "upptime" is your repository name
