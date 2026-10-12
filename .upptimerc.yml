@@ -1,6 +1,9 @@
 # Change these first
 owner: seerainer # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
 
 sites:
   - name: Seerainer
@@ -10,10 +13,4 @@ sites:
 
 status-website:
   name: Upptime
-  favicon: https://www.seerainer.com/favicon.png
-  cname: www.seerainer.com
   baseUrl: /upptime
-
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: true
