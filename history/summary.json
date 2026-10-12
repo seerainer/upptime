@@ -1,20 +1,20 @@
 [
   {
-    "name": "Seerainer",
+    "name": "seerainer.com",
     "url": "https://www.seerainer.com",
     "icon": "https://www.seerainer.com/favicon.png",
-    "slug": "seerainer",
+    "slug": "seerainer-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
