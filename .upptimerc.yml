@@ -9,7 +9,6 @@ sites:
     url: https://www.seerainer.com
     icon: https://www.seerainer.com/favicon.png
     type: globalping
-    check: tcp-ping
 
 status-website:
   name: seerainer.com status
