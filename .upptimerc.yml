@@ -7,4 +7,13 @@ sites:
     url: https://www.seerainer.com
     icon: https://www.seerainer.com/favicon.png
     type: globalping
-    location: Berlin
+
+status-website:
+  name: Upptime
+  favicon: https://www.seerainer.com/favicon.png
+  cname: www.seerainer.com
+  baseUrl: /upptime
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
