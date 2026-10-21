@@ -7,7 +7,6 @@ skipHomepageUpdate: true
 sites:
   - name: seerainer.com
     url: https://www.seerainer.com
-    icon: https://www.seerainer.com/favicon.png
     type: globalping
 
 status-website:
