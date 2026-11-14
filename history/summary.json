@@ -4,17 +4,19 @@
     "url": "https://www.seerainer.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.seerainer.com.ico",
     "slug": "seerainer-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 521,
-    "timeWeek": 372,
-    "timeMonth": 344,
-    "timeYear": 340,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 347,
+    "timeDay": 551,
+    "timeWeek": 398,
+    "timeMonth": 351,
+    "timeYear": 347,
+    "dailyMinutesDown": {
+      "2026-11-14": 10
+    }
   }
 ]
